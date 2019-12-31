@@ -20,7 +20,7 @@
     </p><br><br>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbpM5FI3ZHCt2PMlAk5WlZKH-OxFckvxT2Rg2EHd0Hw4QcWcda&s" alt="" width="550px" height="300px">
     <br><br>
-    <p>Very interesting book and the way of teaching the skills is awesome 👌 </p>
+    <p>Very interesting book and the way of teaching the concept's byt which one can easily acquire much better skill by practising day to day is awesome 👌 </p>
 
 </body>
 
