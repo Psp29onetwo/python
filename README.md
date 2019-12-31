@@ -10,7 +10,7 @@
 
 <body>
     <h1>👆 The Complete python programming</h1>
-    <h3> 🔯 Python learning with the book python Crash Course: A Hands-On,    Project-Based Introduction to Programming by good readers.</h3>
+    <h3> Python learning with the book python Crash Course: A Hands-On, 👓Project-Based Introduction to Programming by good readers.</h3>
     <p>This book teaches the basics of python along with five projects and Django included in it
         <a href="https://www.amazon.in/Python-Crash-Course-Hands-Project-Based-ebook/dp/B018UXJ9RI">Amazon link here, hurry get them all↗ </a> The course offers lessons on full stack development. </p><br><br>
     <img src="https://images-eu.ssl-images-amazon.com/images/I/51A4cWQgMtL.jpg" alt="" width="400px" height="500px"> <br><br><br>
