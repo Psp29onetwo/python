@@ -19,7 +19,7 @@
         way. Upon completion, I will earn my skills of python programming.
     </p><br><br><centre>
 <img src="https://github.com/Psp29onetwo/python/blob/master/ship.png?raw=true"><br><br><br>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbpM5FI3ZHCt2PMlAk5WlZKH-OxFckvxT2Rg2EHd0Hw4QcWcda&s" alt="" width="550px" height="300px">
+<p>Also have interesting Game with Pygame</p>
     <br><br>
     <p>Very interesting book and the way of teaching the concept's byt which one can easily acquire much better skill by practising day to day is awesome 👌 </p>
 
