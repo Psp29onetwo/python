@@ -12,7 +12,7 @@
     <h1>👆 The Complete python programming</h1>
     <h3> Python learning with the book python Crash Course: A Hands-On, 👓Project-Based Introduction to Programming by <strong><em><strong>good reads<?strong></em></strong>.</h3>
     <p>This book teaches the basics of python along with five projects and Django included in it
-        <a href="https://www.amazon.in/Python-Crash-Course-Hands-Project-Based-ebook/dp/B018UXJ9RI">Amazon link here, hurry get them all↗ </a> The course offers lessons on full stack development. </p><br><br>
+      The course offers lessons on full stack development. </p><br><br>
     <img src="https://images-eu.ssl-images-amazon.com/images/I/51A4cWQgMtL.jpg" alt="" width="400px" height="500px"> <br><br><br>
     <p>The book covers topics on basics of python and at every end of the topic the <strong><em>Tyr it yourself</em></strong> is given so the reader can not only just read but it apply the skills to execute codes in python and learn too and as the reaser
         go deeper there are five interesting projects and also the Django basics are there. Also, this book has various challenges and five projects along the way. The objective is to complete the book, and as I progress, complete each project along the
