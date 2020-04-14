@@ -18,7 +18,7 @@
         go deeper there are five interesting projects and also the Django basics are there. Also, this book has various challenges and five projects along the way. The objective is to complete the book, and as I progress, complete each project along the
         way. Upon completion, I will earn my skills of python programming.
     </p><br><br><centre>
-    <img src="https://www.mediafire.com/view/lqpcs199jartsap/ship.png/file" alt="">
+    <img src="https://www.mediafire.com/view/lqpcs199jartsap/ship.png/file" alt="" width="550px" height="300px">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbpM5FI3ZHCt2PMlAk5WlZKH-OxFckvxT2Rg2EHd0Hw4QcWcda&s" alt="" width="550px" height="300px">
     <br><br>
     <p>Very interesting book and the way of teaching the concept's byt which one can easily acquire much better skill by practising day to day is awesome 👌 </p>
