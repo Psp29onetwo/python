@@ -8,23 +8,13 @@ class Ship:
         self.screen = ai_game.screen
         self.screen_rect = ai_game.screen.get_rect()
 
-        #Movement Flag
-        self.moving_right = False
-        self.moving_left = False
-
         # Load the ship image and get its rect.
         self.image = pygame.image.load('python/Alien_invasion/images/ship.bmp')
         self.rect = self.image.get_rect()
 
-        # Start each new ship at the bottom center of the screen.
-        self.rect.midbottom = self.screen_rect.midbottom
-
-    def update(self):
-        if self.moving_right:
-            self.rect.centerx += 1
-        if self.moving_left:
-            self.rect.centerx -= 1
-
+        # Start each new ship at the center of the screen.
+        self.rect.center = self.screen_rect.center
+        
     def blitme(self):
         """Draw the ship at its current location."""
         self.screen.blit(self.image, self.rect)
